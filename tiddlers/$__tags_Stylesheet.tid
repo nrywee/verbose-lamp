@@ -1,0 +1,13 @@
+created: 20220728151725005
+creator: hf
+modified: 20220728151808003
+modifier: hf
+tags: $:/tags/Stylesheet
+title: $:/tags/Stylesheet
+type: text/vnd.tiddlywiki
+
+.tc-tiddler-frame
+.tc-titlebar button 
+{
+opacity:1;
+}
