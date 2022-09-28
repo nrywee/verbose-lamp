@@ -1,0 +1,10 @@
+created: 20220928013532176
+creator: hf
+modified: 20220928013705447
+modifier: hf
+tags: [[第1章 起步]]
+title: 1.1 搭建编程环境
+type: text/vnd.tiddlywiki
+
+就需要下载Windows Python安装程序。为此，请访问Python官方网站主页。将鼠标指向Download链接，你将看到
+一个用于下载最新版本Python的按钮。单击该按钮，这将根据你的系统自动下载正确的安装程序。下载安装程序后，运行它。请务必选中复选框Add Python（版本号）to PATH（例如图1-1），这让你能够更轻松地配置系统。
