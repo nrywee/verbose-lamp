@@ -1,0 +1,14 @@
+created: 20221018083801445
+creator: hf
+modified: 20221018084848569
+modifier: hf
+tags: 数学
+title: 函数与极限
+type: text/vnd.tiddlywiki
+
+$$
+\text{函数}f\text{的定义域记为}D\left( f \right) \text{，值域记为}R\left( f \right) 
+$$
+
+极限的正式定义实际上就是把无限趋近这一个过程用严格的数学语言表示出来
+数学极限的定义相当于

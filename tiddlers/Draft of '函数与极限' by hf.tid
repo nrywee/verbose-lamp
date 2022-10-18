@@ -1,0 +1,18 @@
+created: 20221018083801445
+creator: hf
+draft.of: 函数与极限
+draft.title: 函数与极限
+modified: 20221018085029570
+modifier: hf
+tags: 数学
+title: Draft of '函数与极限' by hf
+type: text/vnd.tiddlywiki
+
+$$
+\text{函数}f\text{的定义域记为}D\left( f \right) \text{，值域记为}R\left( f \right) 
+$$
+
+极限的正式定义实际上就是把无限趋近这一个过程用严格的数学语言表示出来
+
+数列极限的过程相当于趋于无穷大时函数极限的过程
+
