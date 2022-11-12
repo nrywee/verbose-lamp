@@ -1,6 +1,6 @@
 created: 20220928012728001
 creator: hf
-modified: 20220928012800121
+modified: 20221112172917383
 modifier: hf
 tags: Index
 title: 网页
@@ -17,3 +17,4 @@ type: text/vnd.tiddlywiki
 https://demo.wiris.com/mathtype/en/developers.php
 
 可视化公式编辑器，比如：$$p\left(H\left|D\right.\right)=\frac12$$
+现在可用axmath代替
