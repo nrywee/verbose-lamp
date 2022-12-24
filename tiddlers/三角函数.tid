@@ -1,0 +1,105 @@
+created: 20221224153013102
+creator: hf
+modified: 20221224154814074
+modifier: hf
+tags: 数学
+title: 三角函数
+type: text/vnd.tiddlywiki
+
+
+$$
+\text{三角函数常用的}
+\\
+\text{恒等式} \sin ^2\alpha +\cos ^2\alpha =1   
+\\
+\sec ^2\alpha =\tan ^2\alpha +1   \cot ^2\alpha +1=\csc ^2\alpha 
+\\
+
+\\
+\cot \alpha =\frac{1}{\tan \alpha}
+\\
+\sec \alpha =\frac{1}{\cos \alpha}\,\,    \csc \alpha =\frac{1}{\sin \alpha}
+\\
+$$
+
+
+$$
+\\
+\text{倍角公式}
+\\
+
+\\
+\sin 2\alpha =2\sin \alpha \cos \alpha 
+\\
+\cos 2\alpha =\cos ^2\alpha -\sin ^2\alpha =2\cos ^2\alpha -1=1-2\sin ^2\alpha 
+\\
+\tan 2\alpha =\frac{2\tan \alpha}{1-\tan ^2\alpha}
+\\
+$$
+
+
+$$
+\\
+\text{半角公式，}\sin a\text{和}\cos a\text{的从}\cos\text{的二倍角公式可以推导出来}
+\\
+
+\\
+\cos 2\alpha =2\cos ^2\alpha -1
+\\
+\cos 2\alpha +1=2\cos ^2\alpha 
+\\
+\frac{\cos 2\alpha +1}{2}=\cos ^2\alpha 
+\\
+\text{于是有}\cos ^2\alpha =\frac{\cos 2\alpha +1}{2}
+\\
+$$
+$$
+\\
+\cos ^2\frac{\alpha}{2}=\frac{1+\cos \alpha}{2}
+\\
+\sin ^2\frac{\alpha}{2}=\frac{1-\cos \alpha}{2}
+\\
+\tan \frac{\alpha}{2}=\frac{\sin \alpha}{1+\cos \alpha}
+\\
+$$
+$$
+\\
+\text{万能代换}
+\\
+\text{令}t=\tan \frac{x}{2}
+\\
+
+\\
+\tan x=\frac{2\tan \frac{x}{2}}{1-\left( \tan \frac{x}{2} \right) ^2}=\frac{2t}{1-t^2}
+\\
+$$
+$$
+\\
+\sin x=2\sin \frac{x}{2}\cos \frac{x}{2}=\frac{2\sin \frac{x}{2}\cos \frac{x}{2}}{\left( \cos \frac{x}{2} \right) ^2}\cdot \frac{1}{\left( \sec \frac{x}{2} \right) ^2}=\frac{2\tan \frac{x}{2}}{\left( \sec \frac{x}{2} \right) ^2}
+\\
+$$
+$$
+\\
+\text{其中}\left( \sec \frac{x}{2} \right) ^2=\left( \tan \frac{x}{2} \right) ^2+1=\frac{\left( \sin \frac{x}{2} \right) ^2}{\left( \cos \frac{x}{2} \right) ^2}+\frac{\left( \cos \frac{x}{2} \right) ^2}{\left( \cos \frac{x}{2} \right) ^2}=\frac{1}{\left( \cos \frac{x}{2} \right) ^2}
+\\
+$$
+$$
+\\
+=\frac{2t}{1+t^2}
+\\
+$$
+$$
+\\
+\tan x=\frac{\sin x}{\cos x}=\frac{2t}{1-t^2}
+\\
+\sin x=\frac{2t}{1-t^2}\cos x
+\\
+\frac{2t}{1+t^2}=\frac{2t}{1-t^2}\cos x
+\\
+\cos x=\frac{1-t^2}{1+t^2}
+\\
+$$
+$$
+\\
+\text{所以当}t=\tan \frac{x}{2}\text{时，有}\sin x=\frac{2t}{1+t^2}\text{，}\cos x=\frac{1-t^2}{1+t^2}\text{，}\tan x=\frac{2t}{1-t^2}
+$$
