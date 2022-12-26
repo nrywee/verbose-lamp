@@ -1,6 +1,6 @@
 created: 20221224153013102
 creator: hf
-modified: 20221224160117868
+modified: 20221226120416714
 modifier: hf
 tags: 数学
 title: 三角函数
@@ -75,7 +75,7 @@ $$
 $$
 $$
 \\
-\sin x=2\sin \frac{x}{2}\cos \frac{x}{2}=\frac{2\sin \frac{x}{2}\cos \frac{x}{2}}{\left( \cos \frac{x}{2} \right) ^2}\cdot \frac{1}{\left( \sec \frac{x}{2} \right) ^2}=\frac{2\tan \frac{x}{2}}{\left( \sec \frac{x}{2} \right) ^2}
+\sin x=2\sin \frac{x}{2}\cos \frac{x}{2}=\frac{2\sin \frac{x}{2}\cos \frac{x}{2}}{\left( \cos \frac{x}{2} \right) ^2}\cdot \frac{1}{\left( \sec \frac{x}{2} \right) ^2}=\frac{2\tan \frac{x}{2}}{\left( \sec \frac{x}{2} \right) ^2}=\frac{2t}{1+t^2}
 \\
 $$
 $$
@@ -83,11 +83,7 @@ $$
 \text{其中}\left( \sec \frac{x}{2} \right) ^2=\left( \tan \frac{x}{2} \right) ^2+1=\frac{\left( \sin \frac{x}{2} \right) ^2}{\left( \cos \frac{x}{2} \right) ^2}+\frac{\left( \cos \frac{x}{2} \right) ^2}{\left( \cos \frac{x}{2} \right) ^2}=\frac{1}{\left( \cos \frac{x}{2} \right) ^2}
 \\
 $$
-$$
-\\
-=\frac{2t}{1+t^2}
-\\
-$$
+
 $$
 \\
 \tan x=\frac{\sin x}{\cos x}=\frac{2t}{1-t^2}
